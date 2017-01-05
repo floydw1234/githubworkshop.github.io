@@ -1,0 +1,11 @@
+first type "git pull" to update all files from github and copy them to your folder
+
+if you update a file on your computer then you do the following to have it show up on github
+
+*note* must be in the right folder in the git command shell
+
+1.) "git add <filenamein the folder>"
+
+2.) "git commit -m "<any message about the change>"
+
+3.) "git push" - and this will prompt you for your login info the first time you access the repository and maybe every time you close it
